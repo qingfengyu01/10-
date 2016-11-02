@@ -24,3 +24,5 @@ http://www.cocoachina.com/industry/20140521/8504.html
 左右两边隐藏数字
 
 圆形变方形 
+
+约束动画
