@@ -16,3 +16,5 @@ http://www.cocoachina.com/industry/20140521/8504.html
 蒙版颜色
 
 万年历
+
+通过通知改变 轮播图 的约束
