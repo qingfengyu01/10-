@@ -9,3 +9,6 @@ http://www.cocoachina.com/ios/20170306/18837.html
 https://webrtc.org/native-code/ios/
 
 
+export PATH=`pwd`/depot_tools:"$/Users/qingfengyu01/Desktop/depot" 
+
+
