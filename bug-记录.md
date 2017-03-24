@@ -5,3 +5,7 @@
 全部端 录播图 倒退
 
 http://www.jianshu.com/p/1e86adb31903
+
+
+java -jar -i
+
