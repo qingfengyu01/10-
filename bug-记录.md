@@ -3,3 +3,5 @@
 家长端 SOS 
 
 全部端 录播图 倒退
+
+http://www.jianshu.com/p/1e86adb31903
