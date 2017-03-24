@@ -9,3 +9,6 @@ http://www.jianshu.com/p/1e86adb31903
 
 java -jar -i 
 
+mdfind "com_apple_xcode_dsym_uuids == "
+
+
