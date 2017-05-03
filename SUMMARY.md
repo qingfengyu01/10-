@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [生活小知识](生活小知识.md)
 * [苹果开发者公司账号申请流程](苹果开发者公司账号申请流程.md)
 * [上线被拒绝](上线被拒绝.md)
 * [WebRTC循序渐进的学习](web循序渐进.md)
